@@ -1,6 +1,6 @@
 # Plateforme technique du SINP Hauts de France.
 
-Documentation technique et suivi des mises à jour de la plateforme technique sinp des Hauts-de-France
+Documentation technique et suivi des mises à jour de la plateforme technique SINP des Hauts-de-France
 
 ## Release Notes
 
